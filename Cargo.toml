@@ -8,3 +8,7 @@ edition = "2018"
 
 [dependencies]
 globwalk = "0.7"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
