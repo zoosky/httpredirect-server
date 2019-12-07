@@ -1,0 +1,9 @@
+title = "http Redirect Server"
+description = "httpredirect - A simple server for http 301 redirects"
+base_url = "https://httpredirect.netlify.com/"
+highlight_code = true
+highlight_theme = "monokai"
+compile_sass = true
+
+[extra]
+author = "Andreas Kapp"
