@@ -3,6 +3,12 @@ name = "httpredirect-server"
 version = "0.1.0"
 authors = ["ZooSky <zoosky@gmail.com>"]
 edition = "2018"
+license = "MIT"
+readme = "README.md"
+description = "A simple redirect server"
+homepage = "https://httpredirect-server.netlify.com/"
+repository = "https://github.com/zoosky/httpredirect-server"
+keywords = ["server", "http", "redirect"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
